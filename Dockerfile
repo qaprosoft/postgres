@@ -1,4 +1,4 @@
-FROM kubedb/postgres:9.6
+FROM kubedb/postgres:9.6-v2
 
 ENV PG_CRON_VERSION=1.1.3
 
